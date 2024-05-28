@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+    color:black;
+}
+
+p {
+    color:blueviolet;
+}
+
+.destaque{
+    color:blue;
+}
+
+#check{
+    color:brown;
+}
